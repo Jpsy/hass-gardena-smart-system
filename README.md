@@ -86,8 +86,8 @@ The following devices are supported but not all of them have been tested.
 * Gardena Smart Mower (as vacuum)
 * Gardena Smart Sensor (as sensor)
 * Gardena Smart Water Control (as switch)
-* Gardena Smart Irrigation Control (as switch, not tested)
-* Gardena Smart Power Socket (as switch, not tested)
+* Gardena Smart Irrigation Control (as switch)
+* Gardena Smart Power Socket (as switch)
 
 
 ## Development
