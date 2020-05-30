@@ -113,6 +113,7 @@ logger:
     websocket: debug
 ```
 
+After a restart detailed log entries will appear in `/config/home-assistant.log`.
 
 ### TODO
 
